@@ -1,0 +1,11 @@
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/infra/inputadapter/http/OrderAPI.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/infra/outputadapter/postgresrepository/PostgresRepository.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/Application.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/domain/Customer.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/infra/outputport/EntityRepository.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/infra/inputport/CustomerInputPort.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/application/CustomerUseCase.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/infra/inputadapter/http/CustomerAPI.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/application/OrderUserCase.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/domain/Orders.java
+/home/jazcona/Proyectos/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/pruebas/sample/hexagonal/infra/inputport/OrderInputPort.java
